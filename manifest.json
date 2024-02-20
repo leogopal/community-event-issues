@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "GitHub Issue Link Creator",
+  "version": "1.0",
+  "description": "Automatically creates a pre-filled GitHub issue link from WordCamp Central and opens it.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://central.wordcamp.org/*"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  // "web_accessible_resources": "content.js",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
