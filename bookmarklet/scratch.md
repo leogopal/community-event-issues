@@ -11,5 +11,12 @@ title=Issue%20for%20%22N%2FA%22%20-%20Meetup
 &template=0-event-application-vetting.yml
 &title=
 &eventtype=Meetup
-&eventname=Wake%20NORTH%20CAROLINA%20EE.UU
-&eventtracker=https%3A%2F%2Fcentral.wordcamp.org%2Fwp-admin%2Fpost.php%3Fpost%3D5526433%26action%3Dedit
+&eventname=Wake%20NORTH%20CAROLINA%20EE.UU&eventtracker=https%3A%2F%2Fcentral.wordcamp.org%2Fwp-admin%2Fpost.php%3Fpost%3D5526433%26action%3Dedit
+
+<https://github.com/WordPress/Community-Team/issues/new?assignees=&labels=event%2Capplication%2CAwaiting+Triage&projects=WordPress%2F176&template=0-event-application-vetting.yml&title=%5BEvent%5D%3A+>
+
+<https://github.com/WordPress/Community-Team/issues/new?assignees=>
+&labels=event%2Capplication%2CAwaiting+Triage
+&projects=WordPress%2F176
+&template=0-event-application-vetting.yml
+&title=%5BEvent%5D%3A+
